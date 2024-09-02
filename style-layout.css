@@ -1,0 +1,31 @@
+ul li{
+    display:inline-block;
+    margin-right: 20px;
+    border: 1px solid burlywood;
+    padding:10px;
+    border-radius:5px;
+}
+.header{
+    background-color: rgb(134, 216, 204);
+    height: 50px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.container{
+    background-color: rgb(215, 146, 196);
+    padding: 10px;
+    color: chartreuse;
+    text-indent: 25px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    text-decoration: underline;
+}
+.footer{
+    background-color: beige;
+    text-align: center;
+    font-style: italic;
+}
+body{
+    background-image: url(wallp.webp);
+    margin:0px;
+}
